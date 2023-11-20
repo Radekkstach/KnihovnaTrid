@@ -1,0 +1,11 @@
+G:\PROgramovani\KnihovnaTrid\KnihovnaTrid\bin\Debug\net6.0\KnihovnaTrid.deps.json
+G:\PROgramovani\KnihovnaTrid\KnihovnaTrid\bin\Debug\net6.0\KnihovnaTrid.dll
+G:\PROgramovani\KnihovnaTrid\KnihovnaTrid\bin\Debug\net6.0\KnihovnaTrid.pdb
+G:\PROgramovani\KnihovnaTrid\KnihovnaTrid\obj\Debug\net6.0\KnihovnaTrid.GeneratedMSBuildEditorConfig.editorconfig
+G:\PROgramovani\KnihovnaTrid\KnihovnaTrid\obj\Debug\net6.0\KnihovnaTrid.AssemblyInfoInputs.cache
+G:\PROgramovani\KnihovnaTrid\KnihovnaTrid\obj\Debug\net6.0\KnihovnaTrid.AssemblyInfo.cs
+G:\PROgramovani\KnihovnaTrid\KnihovnaTrid\obj\Debug\net6.0\KnihovnaTrid.csproj.CoreCompileInputs.cache
+G:\PROgramovani\KnihovnaTrid\KnihovnaTrid\obj\Debug\net6.0\KnihovnaTrid.dll
+G:\PROgramovani\KnihovnaTrid\KnihovnaTrid\obj\Debug\net6.0\refint\KnihovnaTrid.dll
+G:\PROgramovani\KnihovnaTrid\KnihovnaTrid\obj\Debug\net6.0\KnihovnaTrid.pdb
+G:\PROgramovani\KnihovnaTrid\KnihovnaTrid\obj\Debug\net6.0\ref\KnihovnaTrid.dll

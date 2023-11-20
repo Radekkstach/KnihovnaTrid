@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KnihovnaAplikace/1.0.0": {
+        "dependencies": {
+          "KnihovnaTrid": "1.0.0"
+        },
+        "runtime": {
+          "KnihovnaAplikace.dll": {}
+        }
+      },
+      "KnihovnaTrid/1.0.0": {
+        "runtime": {
+          "KnihovnaTrid.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KnihovnaAplikace/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KnihovnaTrid/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
